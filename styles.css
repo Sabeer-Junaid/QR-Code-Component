@@ -1,0 +1,27 @@
+body {
+    background-color: #EC7063;
+}
+
+#back {
+    height: 450px;
+    width: 350px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#qr-code {
+    height: 300px;
+    width: 330px;
+    background-color: #C0392B;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+h3 {
+    font-size: 23px;
+    margin-top: 4px;
+}
+
+p {
+    opacity: 70%;
+}
