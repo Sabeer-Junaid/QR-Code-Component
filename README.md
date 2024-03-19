@@ -48,7 +48,7 @@ https://sabeerjuniad.github.io/QR-Code-Component
 <img alt="html" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black">
 
 ## 🤝 Contributing
-I welcome contributions to LinkNest!
+I welcome contributions!
 
 ## 📝 License
 
